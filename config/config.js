@@ -86,7 +86,7 @@ var config = {
 		},
 		{
 			module: "cryptocurrency",
-			position: "top_right",
+			position: "top_left",
 			config: {
 				apikey: '1234-5678-9009-8765-4321',
 				currency: ['ethereum', 'bitcoin'],
