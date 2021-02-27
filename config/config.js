@@ -85,7 +85,7 @@ var config = {
 			}
 		},
 		{
-			module: "cryptocurrency",
+			module: "MMM-cryptocurrency",
 			position: "top_left",
 			config: {
 				apikey: '1234-5678-9009-8765-4321',
