@@ -88,7 +88,7 @@ var config = {
 			module: "MMM-cryptocurrency",
 			position: "top_left",
 			config: {
-				apikey: '1234-5678-9009-8765-4321',
+				apikey: 'c80092e3-52a4-4302-969d-a421b38cd872',
 				currency: ['ethereum', 'bitcoin'],
 				conversion: 'EUR',
 				headers: ['change24h', 'change1h', 'change7d'],
