@@ -109,11 +109,7 @@ var config = {
       		},
        
     ]
-}
-		
-		
 
-	]
 };
 
 /*************** DO NOT EDIT THE LINE BELOW ***************/
