@@ -125,6 +125,17 @@ var config = {
              			conversion: "EUR",
            		 }
       		},
+		{
+         		module: "MMM-CoinMarketCap",
+         		position: "top_left",
+   			header: "crypto",
+        		config: {
+              			apiKey: 'c80092e3-52a4-4302-969d-a421b38cd872',
+               			currencies: ['bitcoin', 'ethereum', 'litecoin', 'ripple','Polkadot'],
+              			view: 'graphColored',
+             			conversion: "EUR",
+           		 }
+      		},
        
     ]
 
