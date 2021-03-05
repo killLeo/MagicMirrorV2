@@ -113,18 +113,7 @@ var config = {
 			}
 		},	
 		
-		
-		{
-         		module: "MMM-CoinMarketCap",
-         		position: "top_left",
-   			header: "Léo Hacking",
-        		config: {
-              			apiKey: 'c80092e3-52a4-4302-969d-a421b38cd872',
-               			currencies: ['bitcoin', 'ethereum', 'litecoin', 'ripple','Polkadot'],
-              			view: 'detailed',
-             			conversion: "EUR",
-           		 }
-      		},
+
 		{
          		module: "MMM-CoinMarketCap",
          		position: "top_left",
@@ -137,17 +126,7 @@ var config = {
            		 }
       		},
        
-			{
-         		module: "MMM-CoinMarketCap",
-         		position: "top_left",
-   			header: "crypto",
-        		config: {
-              			apiKey: 'c80092e3-52a4-4302-969d-a421b38cd872',
-               			currencies: ['bitcoin', 'ethereum', 'litecoin', 'ripple','Polkadot'],
-              			view: 'graphColored',
-             			conversion: "EUR",
-           		 }
-      		},
+
     ]
 
 };
