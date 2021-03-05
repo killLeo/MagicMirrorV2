@@ -120,7 +120,7 @@ var config = {
    			header: "Léo Hacking",
         		config: {
               			apiKey: 'c80092e3-52a4-4302-969d-a421b38cd872',
-               			currencies: ['bitcoin', 'ethereum', 'litecoin', 'ripple'],
+               			currencies: ['bitcoin', 'ethereum', 'litecoin', 'ripple','Polkadot'],
               			view: 'graphWithChanges',
              			conversion: "EUR",
            		 }
