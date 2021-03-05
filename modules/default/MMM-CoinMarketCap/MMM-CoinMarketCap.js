@@ -85,6 +85,9 @@ Module.register("MMM-CoinMarketCap", {
 					self.defaults.percentChangeColored = true;
 					self.defaults.showCurrencyWithPrice = true;
 					self.defaults.fullWidthMode = false;
+					self.defaults.logoColored = true;
+					self.defaults.fontSize = "medium";
+					self.defaults.graphColored = true;
 					break;
 				case "logo":
 					self.defaults.columns = [ "logo", "price" ];
