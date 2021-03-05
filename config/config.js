@@ -121,7 +121,7 @@ var config = {
         		config: {
               			apiKey: 'c80092e3-52a4-4302-969d-a421b38cd872',
                			currencies: ['bitcoin', 'ethereum', 'litecoin', 'ripple','Polkadot'],
-              			view: 'graphWithChanges',
+              			view: 'graphColored','detailed',
              			conversion: "EUR",
            		 }
       		},
