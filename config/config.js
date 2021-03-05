@@ -97,6 +97,24 @@ var config = {
 			}
 		},
 		{
+			module: "newsfeed",
+			position: "top_center",
+			config: {
+				feeds: [
+					{
+						title: "Le Monde",
+						url: "https://www.lemonde.fr/rss/une.xml"
+					}
+				],
+				showSourceTitle: true,
+				showPublishDate: true,
+				broadcastNewsFeeds: true,
+				broadcastNewsUpdates: true
+			}
+		},	
+		
+		
+		{
          		module: "MMM-CoinMarketCap",
          		position: "top_left",
    			header: "Léo Hacking",
