@@ -120,13 +120,13 @@ var config = {
    			header: "crypto",
         		config: {
               			apiKey: 'c80092e3-52a4-4302-969d-a421b38cd872',
-               			currencies: ['bitcoin', 'ethereum', 'litecoin', 'ripple','Polkadot'],
+               			currencies: ['bitcoin', 'ethereum', 'litecoin', 'ripple','Polkadot','eos'],
               			view: 'graphWithChanges',
              			conversion: "EUR",
            		 }
       		},
        
-{
+		{
 			module: 'MMM-Paris-RATP-PG',
 			position: 'bottom_right',
 			header: 'Connections',
@@ -144,6 +144,7 @@ var config = {
 		     header: 'Bus 148', // the title that will be displayed on top on the widget
 		     config:{
 			 apiURL:'https://api-ratp.pierre-grimaud.fr/v3/schedules/bus/148/lieutenant+lebrun/A+R', // more info about API documentation : https://github.com/pgrimaud/horaires-ratp-api
+			     
 			}
 		},
     ]
